@@ -79,6 +79,8 @@ class App extends Component {
           </div>
           <div className ="title">
             <h2>Interests</h2>
+            <h2>Interests</h2>
+
           </div>
         </div>
       </div>
