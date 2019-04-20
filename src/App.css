@@ -12,11 +12,11 @@
 }
 
 .app-left{
-
+ font-display: inherit;
 }
 
 .app-right{  
-
+  font-display: inherit;
 }
 
 .checked {
@@ -43,7 +43,7 @@
 }
 .smCol {
   order: 2;
-  offset: 0;
+  offset-block-end: 0%;
 }
 
 .image {
