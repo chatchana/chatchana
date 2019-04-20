@@ -23,7 +23,7 @@ class App extends Component {
           </Row>
           <Row>
             <Col>Address</Col>
-            <Col>Bangkok, Thailand</Col>
+            <Col>Phayao, Thailand</Col>
           </Row>
         </Container>
 

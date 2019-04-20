@@ -41,6 +41,10 @@
   
 }
 
+.space {
+  margin: 0 5px;
+}
+
 .image{
   background-repeat: no-repeat;
   background-size: 300px 300px;
