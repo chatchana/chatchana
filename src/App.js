@@ -17,16 +17,18 @@ class App extends Component {
             <h5>Java Programmer</h5>
           </p>
 
-          <div class="container">
-            <div class="row">
-              <div class="col">Email</div>
-              <div class="col">chatchanak@gmail.com</div>
+          <p>
+            <div class="container">
+              <div class="row">
+                <div class="col">Email</div>
+                <div class="col">chatchanak@gmail.com</div>
+              </div>
+              <div class="row">
+                <div class="col">Address</div>
+                <div class="col">Phayao, Thailand</div>
+              </div>
             </div>
-            <div class="row">
-              <div class="col">Address</div>
-              <div class="col">Phayao, Thailand</div>
-            </div>
-          </div>
+          </p>
 
           <h3>Technical Skills</h3>
           <p>
