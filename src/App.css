@@ -14,7 +14,30 @@
 
 }
 
-.app-right{
+.app-right{  
+
+}
+
+.checked {
+  color: black;
+}
+
+.unchecked {
+  color: gray;
+}
+
+.headRow {
+  height: 40px;
+}  
+
+.dot {
+  height: 5px;
+  width: 5px;
+  background-color: rgb(7, 2, 2);
+  border-radius: 50%;
+  display: inline-block;
+  margin: 0 5px;
+  vertical-align: middle;
   
 }
 
