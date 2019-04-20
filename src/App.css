@@ -1,12 +1,13 @@
 .App {
   display: flex;
   flex-direction: row;
+  margin-left: 1.5rem;
 } 
 
 @media (max-width:768px){
   .App {
     display: flex;
-    flex-direction: column;
+    flex-direction: column;    
   } 
 }
 
@@ -40,9 +41,15 @@
   vertical-align: middle;
   
 }
+.smCol {
+  order: 2;
+  offset: 0;
+}
 
-.space {
-  margin: 0 5px;
+.image {
+  margin-left: 2rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
 }
 
 .image{
